@@ -1,4 +1,7 @@
 # dedrm-kindle
+
+## What?
+
 DeDRM command-line tools for Kindle.
 
 Extracted from Apprentice Alf's DeDRM_tools, release v7.2.1.
@@ -8,6 +11,8 @@ Extracted from Apprentice Alf's DeDRM_tools, release v7.2.1.
 Because the official DeDRM_tools dropped command-line support in favor of Calibre-only plugin.
 
 Calibre is bloated, and the creator is egomaniacal and untrustworthy.  All I need is a way to remove DRM from my Kindle books -- no conversion, no categorization, no tracking by the Calibre creator.
+
+## How?
 
 You'll need:
 
