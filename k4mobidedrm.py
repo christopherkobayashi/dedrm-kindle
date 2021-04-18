@@ -91,7 +91,11 @@ else:
     import topazextract
     import kgenpids
     import androidkindlekey
+
+try:
     import kfxdedrm
+except:
+    print("kfx doesn't work, so let's ignore it.")
 
 # Wrap a stream so that output gets flushed immediately
 # and also make sure that any unicode strings get
